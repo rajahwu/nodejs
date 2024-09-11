@@ -1,0 +1,1 @@
+exports.rootDir = "/var/www/html/apps/Training/nodejs";
